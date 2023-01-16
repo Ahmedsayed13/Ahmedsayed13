@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Sayed
-- 👀 I’m interested in finding an entry level role as a data analyst.
-- 🌱 I’m currently learning Statistics and machine learning
+- 👀 I’m interested in finding a role as an Analytics Engineer
+- 🌱 I’m currently learning about BI/DWH infrastructure, ETL and how to provide self-service analytics for Business Users
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me using my email: ahmed.sayed12@msa.edu.eg
 
