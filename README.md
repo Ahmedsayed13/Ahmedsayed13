@@ -1,7 +1,8 @@
+# Introduction
 - 👋 Hi, I’m Ahmed Sayed
-- 👀 I’m interested in finding a role as an Analytics Engineer
-- 🌱 I’m currently learning about BI/DWH infrastructure, ETL and how to provide self-service analytics for Business Users
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Automotive Embedded Systems and Embedded Software Engineering
+- 🌱 I’m currently learning git and upskilling my Embedded C skills, and I will enroll in a master's degree in Embedded Systems Engineering at Duisburg-Essen University
+- 💞️ I’m looking to collaborate on embedded software projects
 - 📫 You can reach me using my email: ahmed.sayed12@msa.edu.eg
 
 <!---
